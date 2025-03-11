@@ -14,3 +14,6 @@ The deployment of fine-tuned LLMs like those utilizing Qlora presents several is
 While this research contributes valuable tools and insights to the field of ESG impact classification, it also presents several avenues for future work. Expanding the training data to include diverse ESG-related text sources and exploring data augmentation techniques enhance model robustness and generalizability. 
 
 Further investigation into alternative fine-tuning methods like RAG and prompt engineering could reveal additional performance improvements. Lastly, utilizing newer and more advanced LLMs like Llama 3 holds potential for even greater accuracy and nuance in ESG classification. This research highlights the significant advancements in natural language processing techniques for ESG information classification. By continuously refining methods and exploring new technologies, future research can contribute to a more sustainable and responsible future.
+<img width="296" alt="QLora" src="https://github.com/user-attachments/assets/2f27bf30-be0a-4e76-9e53-22b4122d2bdb" />
+
+<img width="299" alt="table" src="https://github.com/user-attachments/assets/81610a3f-7e0a-4f6a-9104-aa72af8c8c4a" />
